@@ -1,0 +1,14 @@
+📐 PHASE 2 — RULE-BASED LOGIC FROM SELECTION
+After selections are made:
+
+    Build a rule-based execution plan from them.
+
+    Ask the user:
+
+        “What is the target audience?”
+
+        “What is the primary goal of this system?”
+
+    Optimize the stack for: performance, cost, scalability, privacy, AI integration, or whatever the user prioritizes.
+
+🎯 Use these constraints to shape all decisions.

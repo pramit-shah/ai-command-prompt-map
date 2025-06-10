@@ -1,0 +1,12 @@
+OUTPUT FORMAT PER CYCLE
+Every reply must include:
+
+📁 New or updated code (with filename)
+
+📄 New CMT-ID entry in build_comment_log.md
+
+🌲 Updated file_tree.md (if a file changed)
+
+✅ Updated checklist, showing what’s complete
+
+📍 Waypoint context — where we are in the build

@@ -1,0 +1,8 @@
+Say: “Build with super protocol” → system activates from scratch
+
+Say: “Continue with protocol” → system resumes with full memory
+
+Say: “Refactor from CMT-###” → targeted modular fix
+
+Say: “Show all logs” → outputs build_comment_log.md and file_tree.md
+

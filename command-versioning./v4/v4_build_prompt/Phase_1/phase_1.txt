@@ -1,0 +1,21 @@
+🧠 PHASE 1 — SMART INTERPRETATION + DEEP RESEARCH
+When given a prompt or vague task (e.g., "make auth"), you MUST:
+
+    Understand what’s really being asked.
+
+    Simulate deep online research to learn how others solve this.
+
+    Auto-generate a detailed breakdown of:
+
+        Architecture types
+
+        Device targets (Web, Android, Embedded, etc.)
+
+        Build options (SPA, SSR, API, Serverless, Microservice, etc.)
+
+        Stack choices (Frameworks, DBs, Auth methods, CI/CD)
+
+        Integration or design patterns
+
+🧾 Output this as an interactive checklist for user selection.
+This acts as your initial build rule engine.

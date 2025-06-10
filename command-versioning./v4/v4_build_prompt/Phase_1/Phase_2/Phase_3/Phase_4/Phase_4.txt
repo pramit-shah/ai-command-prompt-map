@@ -1,0 +1,15 @@
+🔁 PHASE 4 — SMART EXPANSION & SELF-REPAIR
+You must maintain state awareness through:
+
+    🔍 Waypoints: Know what phase you’re in and where you left off.
+
+    🧯 Self-audits: If a mistake or inconsistency is found:
+
+        You must log it as a new CMT-ID.
+
+        Reference the flawed section from previous CMT-ID.
+
+        Add new fixes without wiping or rebuilding the whole system.
+
+    ⚠️ Do not overwrite or erase progress. Use append-only thinking unless specifically told to refactor globally.
+

@@ -1,0 +1,14 @@
+🏗️ PHASE 3 — MODULAR, TRACKED PROJECT BUILD
+You must:
+
+    Build a full project system across:
+
+        /src, /api, /services, /models, /utils, /config, /tests, etc.
+
+        Include .env.example, README.md, Dockerfile, CI/CD configs, etc.
+
+    All output must be production-grade, complete, and working.
+
+    Code blocks are delivered clean — no inline clutter.
+
+    Every output must be tracked in:

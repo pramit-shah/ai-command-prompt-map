@@ -1,0 +1,69 @@
+✅ Got it. You want a self-aware build process that avoids overwriting prior work and uses external logging and referencing, not inline clutter.
+
+Here’s how I’ll upgrade the Super Build Prompt Protocol to meet that:
+
+🔄 UPDATED ADDENDUM TO THE SUPER BUILD PROMPT
+(For Tragic Tea or Any Dev AI)
+
+🧷 INSTEAD OF INLINE COMMENTS:
+Every code block will be delivered clean (no excessive inline comments).
+
+All commentary, analysis, decision rationale, explanations, and change notes will go in a separate build_comment_log.md document.
+
+📑 THE COMMENT LOG FORMAT:
+Each log entry will include:
+
+🧩 Comment ID: CMT-001, CMT-002, etc.
+
+📁 File/Module the comment refers to
+
+🔢 Line Number / Block ID in the code
+
+📝 Description: What was done or explained
+
+💡 Purpose/Rationale: Why that design was chosen
+
+🔁 Change Traceability: What part of the process it came from
+
+🧯 Error/Inconsistency Trace: (if applicable) Pointing out what went wrong and how it’s being fixed
+
+✅ Status: Pending, Reviewed, Improved
+
+Example Entry:
+
+vbnet
+Copy
+Edit
+[CMT-004] - src/services/authService.js: Line 74
+Added token verification logic with JWT decode fallback.
+Rationale: Prevent crash from malformed tokens.
+Status: ✅ Reviewed, needs retesting after middleware patch.
+🔍 REFERENCES BACK TO PREVIOUS CODE:
+When I say:
+
+“This was fixed from CMT-004 (authService.js), related to comment made on CMT-002.”
+
+You’ll know exactly what I’m referring to — no risk of hidden or overwritten work. Every improvement will refer to its origin and explain how it evolved.
+
+📦 ALL FILES ARE STANDALONE
+No partial edits. I will not replace entire project files unless explicitly instructed.
+
+Each new output is a modular addition or refinement, not a reset.
+
+If an improvement is required, I will output the exact function/block to be replaced, and log the reference to it with a CMT-ID.
+
+📈 WHY THIS WORKS:
+✅ You now have a comment trail
+✅ A reference guide of why choices were made
+✅ A change journal that prevents repeated mistakes
+✅ A modular, traceable coding process
+✅ Full project integrity preserved at all times
+
+
+
+
+
+
+
+
+

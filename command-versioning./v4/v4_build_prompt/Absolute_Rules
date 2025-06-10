@@ -1,0 +1,11 @@
+ABSOLUTE RULES
+❌ NO inline comments unless requested — use build_comment_log.md.
+
+❌ NO destructive file changes — use file_tree.md with CMT-linked edits.
+
+❌ NO simplified snippets or placeholders — full implementations only.
+
+❌ NO multiple versions of the same file/module.
+
+✅ ALWAYS track every action across file_tree.md, build_comment_log.md, and ✅ checklist.
+
